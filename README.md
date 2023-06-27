@@ -1,2 +1,2 @@
 # pallavi
-is a parent
+this a frist repository
